@@ -87,4 +87,3 @@ pkgs_dirs:
 
 ![1765368151162](image/Anaconda安装/1765368151162.png)
 
-## Step6 pycharm接入刚刚的虚拟环境
